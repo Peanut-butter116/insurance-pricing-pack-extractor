@@ -1,0 +1,1154 @@
+[
+  {
+    "document_id": "pricing_pack_001",
+    "format": "pdf",
+    "layout": "A",
+    "split": "development",
+    "variant": 0,
+    "path": "data/documents/pdf/pricing_pack_001.pdf",
+    "values": {
+      "policy_start": "2026-07-15",
+      "policy_end": "2027-07-14",
+      "gross_premium_gbp": 2370000,
+      "claim_count": 0,
+      "incurred_claims_gbp": 0,
+      "rate_change_pct": 7.5,
+      "aggregate_limit_gbp": 94000000,
+      "occurrence_limit_gbp": 65000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_002",
+    "format": "pdf",
+    "layout": "B",
+    "split": "development",
+    "variant": 1,
+    "path": "data/documents/pdf/pricing_pack_002.pdf",
+    "values": {
+      "policy_start": null,
+      "policy_end": "2026-12-31",
+      "gross_premium_gbp": 7340000,
+      "claim_count": 192,
+      "incurred_claims_gbp": 5660000,
+      "rate_change_pct": 9.5,
+      "aggregate_limit_gbp": 73000000,
+      "occurrence_limit_gbp": 56000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_003",
+    "format": "pdf",
+    "layout": "C",
+    "split": "development",
+    "variant": 2,
+    "path": "data/documents/pdf/pricing_pack_003.pdf",
+    "values": {
+      "policy_start": "2023-08-01",
+      "policy_end": "2024-07-30",
+      "gross_premium_gbp": 6380000,
+      "claim_count": 136,
+      "incurred_claims_gbp": 7150000,
+      "rate_change_pct": null,
+      "aggregate_limit_gbp": 23000000,
+      "occurrence_limit_gbp": 13000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_004",
+    "format": "pdf",
+    "layout": "A",
+    "split": "development",
+    "variant": 3,
+    "path": "data/documents/pdf/pricing_pack_004.pdf",
+    "values": {
+      "policy_start": null,
+      "policy_end": null,
+      "gross_premium_gbp": 9560000,
+      "claim_count": 1,
+      "incurred_claims_gbp": 10350000,
+      "rate_change_pct": -2.5,
+      "aggregate_limit_gbp": 32000000,
+      "occurrence_limit_gbp": null
+    },
+    "partial_dates": {
+      "policy_start": "Jul 2023"
+    }
+  },
+  {
+    "document_id": "pricing_pack_005",
+    "format": "pdf",
+    "layout": "B",
+    "split": "development",
+    "variant": 4,
+    "path": "data/documents/pdf/pricing_pack_005.pdf",
+    "values": {
+      "policy_start": "2024-05-08",
+      "policy_end": "2025-05-07",
+      "gross_premium_gbp": 5780000,
+      "claim_count": 106,
+      "incurred_claims_gbp": 10810000,
+      "rate_change_pct": -2.5,
+      "aggregate_limit_gbp": 99000000,
+      "occurrence_limit_gbp": 19000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_006",
+    "format": "pdf",
+    "layout": "C",
+    "split": "development",
+    "variant": 5,
+    "path": "data/documents/pdf/pricing_pack_006.pdf",
+    "values": {
+      "policy_start": "2024-01-08",
+      "policy_end": "2025-01-06",
+      "gross_premium_gbp": 5150000,
+      "claim_count": 168,
+      "incurred_claims_gbp": null,
+      "rate_change_pct": 16.5,
+      "aggregate_limit_gbp": 6000000,
+      "occurrence_limit_gbp": 5000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_007",
+    "format": "pdf",
+    "layout": "A",
+    "split": "development",
+    "variant": 6,
+    "path": "data/documents/pdf/pricing_pack_007.pdf",
+    "values": {
+      "policy_start": "2025-12-01",
+      "policy_end": "2026-11-30",
+      "gross_premium_gbp": 3450000,
+      "claim_count": 187,
+      "incurred_claims_gbp": 3910000,
+      "rate_change_pct": null,
+      "aggregate_limit_gbp": 68000000,
+      "occurrence_limit_gbp": 34000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_008",
+    "format": "pdf",
+    "layout": "B",
+    "split": "development",
+    "variant": 7,
+    "path": "data/documents/pdf/pricing_pack_008.pdf",
+    "values": {
+      "policy_start": "2024-02-01",
+      "policy_end": "2025-01-30",
+      "gross_premium_gbp": null,
+      "claim_count": 0,
+      "incurred_claims_gbp": null,
+      "rate_change_pct": 7.5,
+      "aggregate_limit_gbp": 47000000,
+      "occurrence_limit_gbp": 30000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_009",
+    "format": "pdf",
+    "layout": "C",
+    "split": "development",
+    "variant": 8,
+    "path": "data/documents/pdf/pricing_pack_009.pdf",
+    "values": {
+      "policy_start": "2026-11-01",
+      "policy_end": "2027-10-31",
+      "gross_premium_gbp": 8710000,
+      "claim_count": 76,
+      "incurred_claims_gbp": 5340000,
+      "rate_change_pct": 24.0,
+      "aggregate_limit_gbp": 71000000,
+      "occurrence_limit_gbp": 12000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_010",
+    "format": "pdf",
+    "layout": "A",
+    "split": "development",
+    "variant": 9,
+    "path": "data/documents/pdf/pricing_pack_010.pdf",
+    "values": {
+      "policy_start": null,
+      "policy_end": "2024-04-29",
+      "gross_premium_gbp": 7920000,
+      "claim_count": 100,
+      "incurred_claims_gbp": 8440000,
+      "rate_change_pct": 7.5,
+      "aggregate_limit_gbp": 35000000,
+      "occurrence_limit_gbp": 3000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_011",
+    "format": "pdf",
+    "layout": "B",
+    "split": "test",
+    "variant": 10,
+    "path": "data/documents/pdf/pricing_pack_011.pdf",
+    "values": {
+      "policy_start": null,
+      "policy_end": "2026-02-14",
+      "gross_premium_gbp": 3820000,
+      "claim_count": 3,
+      "incurred_claims_gbp": 910000,
+      "rate_change_pct": 27.5,
+      "aggregate_limit_gbp": 43000000,
+      "occurrence_limit_gbp": 14000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_012",
+    "format": "pdf",
+    "layout": "C",
+    "split": "test",
+    "variant": 11,
+    "path": "data/documents/pdf/pricing_pack_012.pdf",
+    "values": {
+      "policy_start": null,
+      "policy_end": "2024-07-06",
+      "gross_premium_gbp": 6000000,
+      "claim_count": 105,
+      "incurred_claims_gbp": 2720000,
+      "rate_change_pct": null,
+      "aggregate_limit_gbp": 49000000,
+      "occurrence_limit_gbp": null
+    },
+    "partial_dates": {
+      "policy_start": "Jul 2023"
+    }
+  },
+  {
+    "document_id": "pricing_pack_013",
+    "format": "pdf",
+    "layout": "A",
+    "split": "test",
+    "variant": 12,
+    "path": "data/documents/pdf/pricing_pack_013.pdf",
+    "values": {
+      "policy_start": "2023-10-15",
+      "policy_end": "2024-10-13",
+      "gross_premium_gbp": 7340000,
+      "claim_count": 94,
+      "incurred_claims_gbp": 7110000,
+      "rate_change_pct": 28.0,
+      "aggregate_limit_gbp": 48000000,
+      "occurrence_limit_gbp": 2000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_014",
+    "format": "pdf",
+    "layout": "B",
+    "split": "test",
+    "variant": 13,
+    "path": "data/documents/pdf/pricing_pack_014.pdf",
+    "values": {
+      "policy_start": "2023-05-01",
+      "policy_end": "2024-04-29",
+      "gross_premium_gbp": 6200000,
+      "claim_count": null,
+      "incurred_claims_gbp": 3490000,
+      "rate_change_pct": 3.0,
+      "aggregate_limit_gbp": 61000000,
+      "occurrence_limit_gbp": 35000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_015",
+    "format": "pdf",
+    "layout": "C",
+    "split": "test",
+    "variant": 14,
+    "path": "data/documents/pdf/pricing_pack_015.pdf",
+    "values": {
+      "policy_start": "2026-02-01",
+      "policy_end": "2027-01-31",
+      "gross_premium_gbp": 9490000,
+      "claim_count": 0,
+      "incurred_claims_gbp": 0,
+      "rate_change_pct": 29.0,
+      "aggregate_limit_gbp": null,
+      "occurrence_limit_gbp": 4000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_016",
+    "format": "pdf",
+    "layout": "D",
+    "split": "test",
+    "variant": 15,
+    "path": "data/documents/pdf/pricing_pack_016.pdf",
+    "values": {
+      "policy_start": "2026-11-01",
+      "policy_end": null,
+      "gross_premium_gbp": 5920000,
+      "claim_count": null,
+      "incurred_claims_gbp": 8040000,
+      "rate_change_pct": 32.5,
+      "aggregate_limit_gbp": 47000000,
+      "occurrence_limit_gbp": 46000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_017",
+    "format": "pdf",
+    "layout": "D",
+    "split": "test",
+    "variant": 16,
+    "path": "data/documents/pdf/pricing_pack_017.pdf",
+    "values": {
+      "policy_start": "2023-03-08",
+      "policy_end": "2024-03-06",
+      "gross_premium_gbp": 1000000,
+      "claim_count": 89,
+      "incurred_claims_gbp": 11650000,
+      "rate_change_pct": -16.0,
+      "aggregate_limit_gbp": 7000000,
+      "occurrence_limit_gbp": 5000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_018",
+    "format": "pdf",
+    "layout": "D",
+    "split": "test",
+    "variant": 17,
+    "path": "data/documents/pdf/pricing_pack_018.pdf",
+    "values": {
+      "policy_start": "2024-01-01",
+      "policy_end": "2024-12-30",
+      "gross_premium_gbp": 470000,
+      "claim_count": 135,
+      "incurred_claims_gbp": 6770000,
+      "rate_change_pct": -9.5,
+      "aggregate_limit_gbp": null,
+      "occurrence_limit_gbp": 56000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_019",
+    "format": "pdf",
+    "layout": "D",
+    "split": "test",
+    "variant": 18,
+    "path": "data/documents/pdf/pricing_pack_019.pdf",
+    "values": {
+      "policy_start": "2025-04-08",
+      "policy_end": "2026-04-07",
+      "gross_premium_gbp": 6440000,
+      "claim_count": null,
+      "incurred_claims_gbp": 11910000,
+      "rate_change_pct": 7.5,
+      "aggregate_limit_gbp": 56000000,
+      "occurrence_limit_gbp": 40000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_020",
+    "format": "pdf",
+    "layout": "D",
+    "split": "test",
+    "variant": 19,
+    "path": "data/documents/pdf/pricing_pack_020.pdf",
+    "values": {
+      "policy_start": null,
+      "policy_end": "2025-02-06",
+      "gross_premium_gbp": 6060000,
+      "claim_count": null,
+      "incurred_claims_gbp": 12580000,
+      "rate_change_pct": 13.5,
+      "aggregate_limit_gbp": 93000000,
+      "occurrence_limit_gbp": 68000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_021",
+    "format": "excel",
+    "layout": "A",
+    "split": "development",
+    "variant": 0,
+    "path": "data/documents/excel/pricing_pack_021.xlsx",
+    "values": {
+      "policy_start": "2026-09-01",
+      "policy_end": "2027-08-31",
+      "gross_premium_gbp": 6850000,
+      "claim_count": 0,
+      "incurred_claims_gbp": 0,
+      "rate_change_pct": 7.5,
+      "aggregate_limit_gbp": 74000000,
+      "occurrence_limit_gbp": 9000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_022",
+    "format": "excel",
+    "layout": "B",
+    "split": "development",
+    "variant": 1,
+    "path": "data/documents/excel/pricing_pack_022.xlsx",
+    "values": {
+      "policy_start": "2026-01-08",
+      "policy_end": "2027-01-07",
+      "gross_premium_gbp": 8510000,
+      "claim_count": 89,
+      "incurred_claims_gbp": 3300000,
+      "rate_change_pct": 5.0,
+      "aggregate_limit_gbp": 48000000,
+      "occurrence_limit_gbp": null
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_023",
+    "format": "excel",
+    "layout": "C",
+    "split": "development",
+    "variant": 2,
+    "path": "data/documents/excel/pricing_pack_023.xlsx",
+    "values": {
+      "policy_start": null,
+      "policy_end": "2025-08-31",
+      "gross_premium_gbp": 9750000,
+      "claim_count": 104,
+      "incurred_claims_gbp": 8480000,
+      "rate_change_pct": 12.0,
+      "aggregate_limit_gbp": 75000000,
+      "occurrence_limit_gbp": 56000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_024",
+    "format": "excel",
+    "layout": "A",
+    "split": "development",
+    "variant": 3,
+    "path": "data/documents/excel/pricing_pack_024.xlsx",
+    "values": {
+      "policy_start": null,
+      "policy_end": "2026-11-07",
+      "gross_premium_gbp": 2410000,
+      "claim_count": 148,
+      "incurred_claims_gbp": 3190000,
+      "rate_change_pct": 40.0,
+      "aggregate_limit_gbp": 21000000,
+      "occurrence_limit_gbp": null
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_025",
+    "format": "excel",
+    "layout": "B",
+    "split": "development",
+    "variant": 4,
+    "path": "data/documents/excel/pricing_pack_025.xlsx",
+    "values": {
+      "policy_start": "2026-08-15",
+      "policy_end": "2027-08-14",
+      "gross_premium_gbp": 1760000,
+      "claim_count": 92,
+      "incurred_claims_gbp": 12790000,
+      "rate_change_pct": 26.0,
+      "aggregate_limit_gbp": 67000000,
+      "occurrence_limit_gbp": 15000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_026",
+    "format": "excel",
+    "layout": "C",
+    "split": "development",
+    "variant": 5,
+    "path": "data/documents/excel/pricing_pack_026.xlsx",
+    "values": {
+      "policy_start": "2024-10-01",
+      "policy_end": "2025-09-30",
+      "gross_premium_gbp": null,
+      "claim_count": 93,
+      "incurred_claims_gbp": 10330000,
+      "rate_change_pct": 5.0,
+      "aggregate_limit_gbp": 65000000,
+      "occurrence_limit_gbp": 35000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_027",
+    "format": "excel",
+    "layout": "A",
+    "split": "development",
+    "variant": 6,
+    "path": "data/documents/excel/pricing_pack_027.xlsx",
+    "values": {
+      "policy_start": "2024-02-15",
+      "policy_end": "2025-02-13",
+      "gross_premium_gbp": 5250000,
+      "claim_count": null,
+      "incurred_claims_gbp": 6840000,
+      "rate_change_pct": 6.5,
+      "aggregate_limit_gbp": 98000000,
+      "occurrence_limit_gbp": 41000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_028",
+    "format": "excel",
+    "layout": "B",
+    "split": "development",
+    "variant": 7,
+    "path": "data/documents/excel/pricing_pack_028.xlsx",
+    "values": {
+      "policy_start": "2025-01-08",
+      "policy_end": "2026-01-07",
+      "gross_premium_gbp": null,
+      "claim_count": null,
+      "incurred_claims_gbp": 0,
+      "rate_change_pct": 27.5,
+      "aggregate_limit_gbp": 55000000,
+      "occurrence_limit_gbp": 27000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_029",
+    "format": "excel",
+    "layout": "C",
+    "split": "development",
+    "variant": 8,
+    "path": "data/documents/excel/pricing_pack_029.xlsx",
+    "values": {
+      "policy_start": "2024-08-15",
+      "policy_end": "2025-08-14",
+      "gross_premium_gbp": 7690000,
+      "claim_count": 182,
+      "incurred_claims_gbp": 4360000,
+      "rate_change_pct": 13.5,
+      "aggregate_limit_gbp": 61000000,
+      "occurrence_limit_gbp": 39000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_030",
+    "format": "excel",
+    "layout": "A",
+    "split": "development",
+    "variant": 9,
+    "path": "data/documents/excel/pricing_pack_030.xlsx",
+    "values": {
+      "policy_start": "2023-06-01",
+      "policy_end": "2024-05-30",
+      "gross_premium_gbp": 6350000,
+      "claim_count": 104,
+      "incurred_claims_gbp": 11070000,
+      "rate_change_pct": null,
+      "aggregate_limit_gbp": 14000000,
+      "occurrence_limit_gbp": 1000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_031",
+    "format": "excel",
+    "layout": "B",
+    "split": "test",
+    "variant": 10,
+    "path": "data/documents/excel/pricing_pack_031.xlsx",
+    "values": {
+      "policy_start": "2025-11-15",
+      "policy_end": null,
+      "gross_premium_gbp": 6310000,
+      "claim_count": 118,
+      "incurred_claims_gbp": 10380000,
+      "rate_change_pct": 32.5,
+      "aggregate_limit_gbp": 67000000,
+      "occurrence_limit_gbp": 46000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_032",
+    "format": "excel",
+    "layout": "C",
+    "split": "test",
+    "variant": 11,
+    "path": "data/documents/excel/pricing_pack_032.xlsx",
+    "values": {
+      "policy_start": null,
+      "policy_end": "2025-08-31",
+      "gross_premium_gbp": 8280000,
+      "claim_count": 52,
+      "incurred_claims_gbp": 2950000,
+      "rate_change_pct": -15.5,
+      "aggregate_limit_gbp": null,
+      "occurrence_limit_gbp": 15000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_033",
+    "format": "excel",
+    "layout": "A",
+    "split": "test",
+    "variant": 12,
+    "path": "data/documents/excel/pricing_pack_033.xlsx",
+    "values": {
+      "policy_start": "2024-07-08",
+      "policy_end": "2025-07-07",
+      "gross_premium_gbp": 6350000,
+      "claim_count": 161,
+      "incurred_claims_gbp": 1150000,
+      "rate_change_pct": -9.0,
+      "aggregate_limit_gbp": 25000000,
+      "occurrence_limit_gbp": 24000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_034",
+    "format": "excel",
+    "layout": "B",
+    "split": "test",
+    "variant": 13,
+    "path": "data/documents/excel/pricing_pack_034.xlsx",
+    "values": {
+      "policy_start": "2023-02-08",
+      "policy_end": "2024-02-07",
+      "gross_premium_gbp": 8880000,
+      "claim_count": 185,
+      "incurred_claims_gbp": null,
+      "rate_change_pct": -0.5,
+      "aggregate_limit_gbp": 97000000,
+      "occurrence_limit_gbp": 52000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_035",
+    "format": "excel",
+    "layout": "C",
+    "split": "test",
+    "variant": 14,
+    "path": "data/documents/excel/pricing_pack_035.xlsx",
+    "values": {
+      "policy_start": null,
+      "policy_end": "2027-04-07",
+      "gross_premium_gbp": 8220000,
+      "claim_count": 0,
+      "incurred_claims_gbp": 0,
+      "rate_change_pct": 33.5,
+      "aggregate_limit_gbp": 88000000,
+      "occurrence_limit_gbp": 27000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_036",
+    "format": "excel",
+    "layout": "D",
+    "split": "test",
+    "variant": 15,
+    "path": "data/documents/excel/pricing_pack_036.xlsx",
+    "values": {
+      "policy_start": "2025-03-08",
+      "policy_end": "2026-03-07",
+      "gross_premium_gbp": null,
+      "claim_count": 54,
+      "incurred_claims_gbp": 10190000,
+      "rate_change_pct": 10.5,
+      "aggregate_limit_gbp": 30000000,
+      "occurrence_limit_gbp": null
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_037",
+    "format": "excel",
+    "layout": "D",
+    "split": "test",
+    "variant": 16,
+    "path": "data/documents/excel/pricing_pack_037.xlsx",
+    "values": {
+      "policy_start": "2023-10-15",
+      "policy_end": "2024-10-13",
+      "gross_premium_gbp": 8180000,
+      "claim_count": 48,
+      "incurred_claims_gbp": 200000,
+      "rate_change_pct": 18.5,
+      "aggregate_limit_gbp": 57000000,
+      "occurrence_limit_gbp": 47000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_038",
+    "format": "excel",
+    "layout": "D",
+    "split": "test",
+    "variant": 17,
+    "path": "data/documents/excel/pricing_pack_038.xlsx",
+    "values": {
+      "policy_start": "2023-03-15",
+      "policy_end": null,
+      "gross_premium_gbp": 2790000,
+      "claim_count": 191,
+      "incurred_claims_gbp": 3530000,
+      "rate_change_pct": 35.5,
+      "aggregate_limit_gbp": 26000000,
+      "occurrence_limit_gbp": 19000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_039",
+    "format": "excel",
+    "layout": "D",
+    "split": "test",
+    "variant": 18,
+    "path": "data/documents/excel/pricing_pack_039.xlsx",
+    "values": {
+      "policy_start": "2025-10-08",
+      "policy_end": "2026-10-07",
+      "gross_premium_gbp": 5350000,
+      "claim_count": 22,
+      "incurred_claims_gbp": null,
+      "rate_change_pct": 7.5,
+      "aggregate_limit_gbp": 98000000,
+      "occurrence_limit_gbp": 42000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_040",
+    "format": "excel",
+    "layout": "D",
+    "split": "test",
+    "variant": 19,
+    "path": "data/documents/excel/pricing_pack_040.xlsx",
+    "values": {
+      "policy_start": null,
+      "policy_end": "2025-04-30",
+      "gross_premium_gbp": null,
+      "claim_count": 175,
+      "incurred_claims_gbp": 12250000,
+      "rate_change_pct": 38.0,
+      "aggregate_limit_gbp": 89000000,
+      "occurrence_limit_gbp": null
+    },
+    "partial_dates": {
+      "policy_start": "May 2024"
+    }
+  },
+  {
+    "document_id": "pricing_pack_041",
+    "format": "powerpoint",
+    "layout": "A",
+    "split": "development",
+    "variant": 0,
+    "path": "data/documents/powerpoint/pricing_pack_041.pptx",
+    "values": {
+      "policy_start": "2023-12-08",
+      "policy_end": "2024-12-06",
+      "gross_premium_gbp": 1180000,
+      "claim_count": 0,
+      "incurred_claims_gbp": 0,
+      "rate_change_pct": 7.5,
+      "aggregate_limit_gbp": 94000000,
+      "occurrence_limit_gbp": 26000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_042",
+    "format": "powerpoint",
+    "layout": "B",
+    "split": "development",
+    "variant": 1,
+    "path": "data/documents/powerpoint/pricing_pack_042.pptx",
+    "values": {
+      "policy_start": "2023-10-15",
+      "policy_end": "2024-10-13",
+      "gross_premium_gbp": 9150000,
+      "claim_count": 65,
+      "incurred_claims_gbp": null,
+      "rate_change_pct": 39.0,
+      "aggregate_limit_gbp": 9000000,
+      "occurrence_limit_gbp": 2000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_043",
+    "format": "powerpoint",
+    "layout": "C",
+    "split": "development",
+    "variant": 2,
+    "path": "data/documents/powerpoint/pricing_pack_043.pptx",
+    "values": {
+      "policy_start": "2026-07-15",
+      "policy_end": "2027-07-14",
+      "gross_premium_gbp": 850000,
+      "claim_count": 21,
+      "incurred_claims_gbp": 11780000,
+      "rate_change_pct": -9.5,
+      "aggregate_limit_gbp": 74000000,
+      "occurrence_limit_gbp": null
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_044",
+    "format": "powerpoint",
+    "layout": "A",
+    "split": "development",
+    "variant": 3,
+    "path": "data/documents/powerpoint/pricing_pack_044.pptx",
+    "values": {
+      "policy_start": null,
+      "policy_end": null,
+      "gross_premium_gbp": 6420000,
+      "claim_count": 120,
+      "incurred_claims_gbp": 280000,
+      "rate_change_pct": 17.5,
+      "aggregate_limit_gbp": 75000000,
+      "occurrence_limit_gbp": null
+    },
+    "partial_dates": {
+      "policy_start": "Mar 2023"
+    }
+  },
+  {
+    "document_id": "pricing_pack_045",
+    "format": "powerpoint",
+    "layout": "B",
+    "split": "development",
+    "variant": 4,
+    "path": "data/documents/powerpoint/pricing_pack_045.pptx",
+    "values": {
+      "policy_start": "2024-10-08",
+      "policy_end": "2025-10-07",
+      "gross_premium_gbp": 9180000,
+      "claim_count": 128,
+      "incurred_claims_gbp": 6750000,
+      "rate_change_pct": 24.5,
+      "aggregate_limit_gbp": 81000000,
+      "occurrence_limit_gbp": 71000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_046",
+    "format": "powerpoint",
+    "layout": "C",
+    "split": "development",
+    "variant": 5,
+    "path": "data/documents/powerpoint/pricing_pack_046.pptx",
+    "values": {
+      "policy_start": "2023-01-08",
+      "policy_end": "2024-01-07",
+      "gross_premium_gbp": 600000,
+      "claim_count": 7,
+      "incurred_claims_gbp": 14480000,
+      "rate_change_pct": 29.0,
+      "aggregate_limit_gbp": 96000000,
+      "occurrence_limit_gbp": null
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_047",
+    "format": "powerpoint",
+    "layout": "A",
+    "split": "development",
+    "variant": 6,
+    "path": "data/documents/powerpoint/pricing_pack_047.pptx",
+    "values": {
+      "policy_start": "2024-09-08",
+      "policy_end": null,
+      "gross_premium_gbp": 5340000,
+      "claim_count": 63,
+      "incurred_claims_gbp": 12970000,
+      "rate_change_pct": -15.5,
+      "aggregate_limit_gbp": 33000000,
+      "occurrence_limit_gbp": 16000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_048",
+    "format": "powerpoint",
+    "layout": "B",
+    "split": "development",
+    "variant": 7,
+    "path": "data/documents/powerpoint/pricing_pack_048.pptx",
+    "values": {
+      "policy_start": "2025-06-08",
+      "policy_end": null,
+      "gross_premium_gbp": 7560000,
+      "claim_count": 0,
+      "incurred_claims_gbp": 0,
+      "rate_change_pct": 40.0,
+      "aggregate_limit_gbp": null,
+      "occurrence_limit_gbp": 18000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_049",
+    "format": "powerpoint",
+    "layout": "C",
+    "split": "development",
+    "variant": 8,
+    "path": "data/documents/powerpoint/pricing_pack_049.pptx",
+    "values": {
+      "policy_start": "2023-11-01",
+      "policy_end": "2024-10-30",
+      "gross_premium_gbp": 5200000,
+      "claim_count": 6,
+      "incurred_claims_gbp": 3230000,
+      "rate_change_pct": -4.0,
+      "aggregate_limit_gbp": 87000000,
+      "occurrence_limit_gbp": 13000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_050",
+    "format": "powerpoint",
+    "layout": "A",
+    "split": "development",
+    "variant": 9,
+    "path": "data/documents/powerpoint/pricing_pack_050.pptx",
+    "values": {
+      "policy_start": "2024-09-15",
+      "policy_end": "2025-09-14",
+      "gross_premium_gbp": 800000,
+      "claim_count": 159,
+      "incurred_claims_gbp": 7730000,
+      "rate_change_pct": 7.5,
+      "aggregate_limit_gbp": null,
+      "occurrence_limit_gbp": 12000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_051",
+    "format": "powerpoint",
+    "layout": "B",
+    "split": "test",
+    "variant": 10,
+    "path": "data/documents/powerpoint/pricing_pack_051.pptx",
+    "values": {
+      "policy_start": "2026-07-15",
+      "policy_end": "2027-07-14",
+      "gross_premium_gbp": 7410000,
+      "claim_count": 64,
+      "incurred_claims_gbp": 2760000,
+      "rate_change_pct": null,
+      "aggregate_limit_gbp": 29000000,
+      "occurrence_limit_gbp": 8000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_052",
+    "format": "powerpoint",
+    "layout": "C",
+    "split": "test",
+    "variant": 11,
+    "path": "data/documents/powerpoint/pricing_pack_052.pptx",
+    "values": {
+      "policy_start": null,
+      "policy_end": null,
+      "gross_premium_gbp": 8120000,
+      "claim_count": 109,
+      "incurred_claims_gbp": 10210000,
+      "rate_change_pct": 26.5,
+      "aggregate_limit_gbp": 91000000,
+      "occurrence_limit_gbp": null
+    },
+    "partial_dates": {
+      "policy_start": "Sep 2023"
+    }
+  },
+  {
+    "document_id": "pricing_pack_053",
+    "format": "powerpoint",
+    "layout": "A",
+    "split": "test",
+    "variant": 12,
+    "path": "data/documents/powerpoint/pricing_pack_053.pptx",
+    "values": {
+      "policy_start": "2023-07-01",
+      "policy_end": "2024-06-29",
+      "gross_premium_gbp": 7030000,
+      "claim_count": 189,
+      "incurred_claims_gbp": 6980000,
+      "rate_change_pct": 0.0,
+      "aggregate_limit_gbp": 9000000,
+      "occurrence_limit_gbp": 5000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_054",
+    "format": "powerpoint",
+    "layout": "B",
+    "split": "test",
+    "variant": 13,
+    "path": "data/documents/powerpoint/pricing_pack_054.pptx",
+    "values": {
+      "policy_start": "2024-12-01",
+      "policy_end": "2025-11-30",
+      "gross_premium_gbp": 3860000,
+      "claim_count": 175,
+      "incurred_claims_gbp": null,
+      "rate_change_pct": 27.0,
+      "aggregate_limit_gbp": 5000000,
+      "occurrence_limit_gbp": 5000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_055",
+    "format": "powerpoint",
+    "layout": "C",
+    "split": "test",
+    "variant": 14,
+    "path": "data/documents/powerpoint/pricing_pack_055.pptx",
+    "values": {
+      "policy_start": "2026-11-15",
+      "policy_end": "2027-11-14",
+      "gross_premium_gbp": null,
+      "claim_count": 0,
+      "incurred_claims_gbp": 0,
+      "rate_change_pct": 7.5,
+      "aggregate_limit_gbp": 72000000,
+      "occurrence_limit_gbp": 19000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_056",
+    "format": "powerpoint",
+    "layout": "D",
+    "split": "test",
+    "variant": 15,
+    "path": "data/documents/powerpoint/pricing_pack_056.pptx",
+    "values": {
+      "policy_start": "2026-01-15",
+      "policy_end": "2027-01-14",
+      "gross_premium_gbp": 8000000,
+      "claim_count": null,
+      "incurred_claims_gbp": 10960000,
+      "rate_change_pct": null,
+      "aggregate_limit_gbp": 95000000,
+      "occurrence_limit_gbp": 92000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_057",
+    "format": "powerpoint",
+    "layout": "D",
+    "split": "test",
+    "variant": 16,
+    "path": "data/documents/powerpoint/pricing_pack_057.pptx",
+    "values": {
+      "policy_start": "2026-09-15",
+      "policy_end": "2027-09-14",
+      "gross_premium_gbp": 2860000,
+      "claim_count": 99,
+      "incurred_claims_gbp": 13070000,
+      "rate_change_pct": 8.0,
+      "aggregate_limit_gbp": 63000000,
+      "occurrence_limit_gbp": 53000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_058",
+    "format": "powerpoint",
+    "layout": "D",
+    "split": "test",
+    "variant": 17,
+    "path": "data/documents/powerpoint/pricing_pack_058.pptx",
+    "values": {
+      "policy_start": "2026-11-01",
+      "policy_end": null,
+      "gross_premium_gbp": 4260000,
+      "claim_count": 154,
+      "incurred_claims_gbp": 13090000,
+      "rate_change_pct": 9.0,
+      "aggregate_limit_gbp": 97000000,
+      "occurrence_limit_gbp": 89000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_059",
+    "format": "powerpoint",
+    "layout": "D",
+    "split": "test",
+    "variant": 18,
+    "path": "data/documents/powerpoint/pricing_pack_059.pptx",
+    "values": {
+      "policy_start": "2024-06-15",
+      "policy_end": "2025-06-14",
+      "gross_premium_gbp": 1100000,
+      "claim_count": 71,
+      "incurred_claims_gbp": 4420000,
+      "rate_change_pct": 7.5,
+      "aggregate_limit_gbp": null,
+      "occurrence_limit_gbp": 23000000
+    },
+    "partial_dates": {}
+  },
+  {
+    "document_id": "pricing_pack_060",
+    "format": "powerpoint",
+    "layout": "D",
+    "split": "test",
+    "variant": 19,
+    "path": "data/documents/powerpoint/pricing_pack_060.pptx",
+    "values": {
+      "policy_start": null,
+      "policy_end": "2027-09-30",
+      "gross_premium_gbp": 1760000,
+      "claim_count": null,
+      "incurred_claims_gbp": 13510000,
+      "rate_change_pct": 13.0,
+      "aggregate_limit_gbp": 68000000,
+      "occurrence_limit_gbp": null
+    },
+    "partial_dates": {
+      "policy_start": "Oct 2026"
+    }
+  }
+]
